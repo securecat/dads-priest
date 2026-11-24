@@ -29,6 +29,12 @@ docs/
 | 001 | デビュー曲『YELLOW & BLACK ―誰一人取り残されない―』 | [music/001/yellow-and-black.md](music/001/yellow-and-black.md) |
 | 002 | 2曲目『GRAY 536 ―白と黒の狭間で―』 | [music/002/gray-536.md](music/002/gray-536.md) |
 
+## リポジトリ運用
+
+- ソフトウェアではないので、バージョン管理（バージョン番号・CHANGELOG.md・リリース）はしない。グローバルルールの REPOSITORY.md のうち、バージョンやリリースに関する作法は適用しない
+- コミットメッセージなど、それ以外の作法は REPOSITORY.md に従う
+- 新しい曲を作ったら、上の表と `README.md` の「Music」にも追加する
+
 ## 参照資料
 
 - DADS のドキュメント一式（Markdown）：`references/` の中に、取得日ごとのディレクトリ（`dads-markdown-YYYYMMDD`）で置いてある

@@ -16,7 +16,7 @@ DADS Priestプロジェクトの成果物はYouTubeで公開する楽曲づく�
 
 ## アクセシビリティの問題を報告する
 
-本リポジトリにおいて解決すべき事項であれば、[GitHub Issues](https://github.com/securecat/csenter/issues) で報告してください。日本語でも英語でも構いません。
+本リポジトリにおいて解決すべき事項であれば、[GitHub Issues](https://github.com/securecat/dads-priest/issues) で報告してください。日本語でも英語でも構いません。
 
 ## 責任者と保守
 
@@ -24,4 +24,4 @@ DADS Priestプロジェクトの成果物はYouTubeで公開する楽曲づく�
 
 ## この文書へのフィードバック
 
-この文書やアクセシビリティへの取り組み方についての提案も、[GitHub Issues](https://github.com/securecat/csenter/issues) で受け付けています。
+この文書やアクセシビリティへの取り組み方についての提案も、[GitHub Issues](https://github.com/securecat/dads-priest/issues) で受け付けています。
