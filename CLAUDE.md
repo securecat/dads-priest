@@ -28,6 +28,7 @@ docs/
 |---|---|---|
 | 001 | デビュー曲『YELLOW & BLACK ―誰一人取り残されない―』 | [music/001/yellow-and-black.md](music/001/yellow-and-black.md) |
 | 002 | 2曲目『GRAY-536 ―白と黒の狭間で―』 | [music/002/gray-536.md](music/002/gray-536.md) |
+| 003 | 3曲目『EMERGENCY BANNER ―閉じられない旗―』 | [music/003/emergency-banner.md](music/003/emergency-banner.md) |
 
 ## リポジトリ運用
 
